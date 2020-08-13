@@ -72,7 +72,11 @@ int main()
 
     
 
-    // main game loop
+    /*
+    Two conditions must be met to continue playing. The player must be alive,
+    and the number of defeated jedi equals the number of randomly generated jedi.
+    The random number is 0-10. 
+    */
     
     while (sithApprentice.playerAlive && sithApprentice.jediDefeated < sithApprentice.jediCount)
     {
