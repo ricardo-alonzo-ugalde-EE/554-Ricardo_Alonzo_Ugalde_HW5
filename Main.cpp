@@ -74,7 +74,7 @@ int main()
 
     // main game loop
     
-    while (sithApprentice.playerAlive && sithApprentice.jediDefeated < sithApprentice.jediCount) 
+    while (sithApprentice.playerAlive && sithApprentice.jediDefeated < sithApprentice.jediCount)
     {
         /*
         use pass by pointer to offer switch power levels after every round!
