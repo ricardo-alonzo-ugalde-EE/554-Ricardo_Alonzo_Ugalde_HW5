@@ -1,12 +1,19 @@
+/*
+header file.cpp
+Ricard Alonzo Ugalde
+CIS 554-M401 Object Oriented Programming in C++
+Syracuse University
+Homewor 5
+*/
 
+#include <iomanip>
 #include <iostream> 
 #include <vector> 
 using std::string;
 using std::cout;
 using std::cin;
 using std::endl;
-#include <iomanip>
-#include <string.h>
+
 
 
 class sithSim

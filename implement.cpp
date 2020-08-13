@@ -1,9 +1,17 @@
+/*
+implementation file.cpp
+Ricard Alonzo Ugalde
+CIS 554-M401 Object Oriented Programming in C++
+Syracuse University
+Homewor 5
+*/
+
 #include<iostream>
 #include <vector>
 #include "implement.h"
 using std::string;
 using std::endl;
-#include <string.h>
+
 
 
 

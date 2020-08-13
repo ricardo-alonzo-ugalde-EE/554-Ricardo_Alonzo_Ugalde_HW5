@@ -1,10 +1,14 @@
+/*
+main.cpp
+Ricard Alonzo Ugalde
+CIS 554-M401 Object Oriented Programming in C++
+Syracuse University
+Homewor 5
+*/
 
 #include <iostream> 
 #include <vector>
 #include "implement.h"
-#include <string>
-#include <iomanip>
-#include <stdlib.h>
 #include <thread>
 #include <chrono>
 using std::string;
@@ -12,7 +16,6 @@ using std::endl;
 using std::cout;
 using std::cin;
 using std::setw;
-using std::time;
 using std::setfill;
 
 int main()
